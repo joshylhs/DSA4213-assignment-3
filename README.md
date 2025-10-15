@@ -1,5 +1,5 @@
 # DSA4213-assignment-3
-DSA4213 assignment 3 for text classification using Longformer Bert model.
+DSA4213 assignment 3 for text classification using Longformer Bert model, more specifically, classification on long-form political documents/articles by political bias between 'left', 'lean left', 'centre', 'lean right' and 'right'.
 
 The notebooks with output i.e. `FFT.ipynb`, `LoRA.ipynb` and `IA3.ipynb` all show the same following viewing error:
 ```
